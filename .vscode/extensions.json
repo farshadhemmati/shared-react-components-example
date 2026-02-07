@@ -6,6 +6,6 @@
     "shinnn.stylelint",
     "flowtype.flow-for-vscode",
     "eamodio.gitlens",
-    "pflannery.vscode-versionlens"
+    "legalfina.npm-version-lens"
   ]
 }
